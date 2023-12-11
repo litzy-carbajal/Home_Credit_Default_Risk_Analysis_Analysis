@@ -11,7 +11,9 @@ The solution we put forth entailed creating a robust predictive model through Ti
 My involvement in the project encompassed conducting thorough exploratory data analysis and Time Series Model development. During EDA, I extensively analyzed the datasets, identifying patterns and trends to comprehend the data's underlying structure. This crucial step informed subsequent modeling processes. For Time Series Models, I utilized various techniques to capture and predict sales patterns over time, incorporating features and evaluating metrics such as RMSE. I tried implementing the SARIMA model but the results were not impactful for what we were looking to achieve. Overall, my efforts in EDA and Time Series Modeling aimed to offer valuable insights into Maverik's sales dataand also complementing even better with my team's contributions.
 
 Here are some of my contributions for the project: 
+
 [EDA Notebook](https://github.com/litzy-carbajal/Maverik_Forecasting_Time_Series_Analysis/blob/c6418fbec5aeab18a6aad0c9ce376e5271a6c3c5/Litzy_EDA.ipynb)
+
 [Modeling Notebook](https://github.com/litzy-carbajal/Maverik_Forecasting_Time_Series_Analysis/blob/c6418fbec5aeab18a6aad0c9ce376e5271a6c3c5/Litzy_Modeling.ipynb)
 
 ## Business Value
